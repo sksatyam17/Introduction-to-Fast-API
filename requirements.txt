@@ -1,2 +1,3 @@
 fastapi
-unicorn
+uvicorn
+pydantic
